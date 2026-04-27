@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Rapper AI 🎤</h1>
+
+<img src="https://via.placeholder.com/200">
+
+<p>Tu bude AI odpoveď</p>
+
+</body>
+</html>
